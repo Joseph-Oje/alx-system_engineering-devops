@@ -1,0 +1,4 @@
+#!/bin/bash
+0 string school
+/usr/share/file/magic/school.mgc
+file -m school.mgc 
